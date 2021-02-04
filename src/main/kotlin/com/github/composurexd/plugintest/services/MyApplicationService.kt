@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.composurexd.plugintest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.composurexd.plugintest.MyBundle
 
 class MyApplicationService {
 
